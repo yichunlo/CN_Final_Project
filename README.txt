@@ -1,3 +1,5 @@
+這是一個簡單的HTTP Server，主要是練習socket programming，沒有實作HTTPS加密。
+
 以下關於這次的project測試，有幾件事要注意：
 1. 麻煩在測試的時候，一定要用google chrome瀏覽器開啟，safari會沒辦法好好地進行POST。
 2. 在本機執行時，IP設為127.0.0.1，port為12724。如果要在工作站上面測試，就將197行的host值調整為工作站的IP。
